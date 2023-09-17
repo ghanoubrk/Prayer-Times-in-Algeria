@@ -1,4 +1,4 @@
-# Prayers-time-in-Algeria
+# Prayer-times-in-Algeria
 ![Screenshot](https://github.com/ghanoubrk/Prayer-times-in-Algeria/assets/112973523/e501a488-b21c-44a0-8600-cb2443ad753d)
 
 ## Overview
