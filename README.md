@@ -3,7 +3,7 @@
 
 ## Overview
 This website provides prayer times for wilays (provinces) in Algeria.It automatically detects the user's location using their  IP address to select the city,or users can manually search for a specific wilaya.It uses the Adhan prayer time API and a json file of Algerian cities.
-Link : https://prayer-times-in-algeria.vercel.app/
+Demo : https://prayer-times-in-algeria.vercel.app/
 
 ## Features
   <ul>
